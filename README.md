@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and AI developer in Training
 -------------------------------------------
 
-I've been dedicated to studying data science and machine learning for the past six months, and I've been actively engaged in data analysis for the past ten months at an energy company. I'm currently pursuing a software engineering degree at Ampli, where I'm finishing my first semester. I'm passionate about sustainability and social issues, aiming to make a positive impact through my work. My goal is to become a skilled AI developer and machine learning engineer.
+I have been dedicated to studying data science and machine learning for the past six months, and I've been actively engaged in data analysis at an energy company for the past ten months. I'm currently pursuing a software engineering degree at Ampli, where I'm finishing my first semester. I'm passionate about sustainability and social development, aiming to make a positive impact through my work. My goal is to become a skilled AI developer and machine learning engineer.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [JpDatahive](http://bento.me/jpdatahive)
