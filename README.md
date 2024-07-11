@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and AI developer in Training
 -------------------------------------------
 
-I have been dedicated to studying data science and machine learning for the past six months, and I've been actively engaged in data analysis at an energy company for the past ten months. I'm currently pursuing a software engineering degree at Ampli, where I'm finishing my first semester. I'm passionate about sustainability and social development, aiming to make a positive impact through my work. My goal is to become a skilled AI developer and machine learning engineer.
+I have been dedicated to studying data science and machine learning for the past six months, and I've been actively engaged in data analysis at an energy company for the past ten months. I have a background in Electrical Engineering, but I'm now pursuing a software engineering degree at Ampli, where I'm finishing my first semester. I'm passionate about sustainability and social development, aiming to make a positive impact through my work. My goal is to become a skilled AI developer and machine learning engineer.
 
-* 🌍  I'm based in Brazil
+* 🌍  Based in Brazil
 * 🖥️  See my portfolio at [JpDatahive](http://bento.me/jpdatahive)
-* ✉️  You can contact me at [jparaujocle@gmail.com](mailto:jparaujocle@gmail.com)
-* 🧠  I'm learning Machine learning with Scikit-learn, Keras and Tensorflow
+* ✉️  Reach out at [jparaujocle@gmail.com](mailto:jparaujocle@gmail.com)
+* 🧠  Currently learning Machine learning with Scikit-learn, Keras and Tensorflow
 * 🤝  I'm open to collaborating on Energy, education or social related projects
-* ⚡  I'm new to all of this, so don't judge me too much (:
+* ⚡  I'm new to all of this, so don't be too harsh (:
 
 ### Skills
 
