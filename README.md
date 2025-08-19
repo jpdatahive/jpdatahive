@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Joao Pedro</h1>
 <h3 align="center">Passionate Software Engineer Student from Brazil</h3>
 
@@ -9,7 +8,6 @@
 - 📝 I regularly write (not really) articles on [https://onee.page/jpdatahive](https://onee.page/jpdatahive)
 - 💬 Ask me about **Manga lol.**
 - 📫 How to reach me **jparaujocle@gmail.com**
-- 📄 Know about my experiences [I'll fill in](I'll fill in)
 - ⚡ Fun fact **I don't know any**
 
 <h3 align="left">Connect with me:</h3>
