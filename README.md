@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joao Pedro</h1>
 <h3 align="center">Passionate Software Engineer Student from Brazil</h3>
 <h4 align="center">About me:<h4></h4> 
+
 <p>I'm a Software Engineering student with a genuine passion for technology and innovation. Beyond the tech world, I'm fascinated by human nature and behavior, I'm an avid reader, love animals, and regularly practice sports. I believe this diversity of interests makes me a more creative and empathetic developer.</p><br>
   
 - 🔭 I am Currently working on: [Terminal Dogma](https://github.com/jpdatahive/terminal-dogma) - a project exploring AI and some Human Nature concepts (with a little bit of 新世紀エヴァンゲリオン on it)
 - 🌱 I am Currently learning: Java, Spring Boot, and Microservices architecture to build scalable and robust applications
 - 💬 Ask me about: anime, manga, technology, software development, or any geeky topic that sparks your curiosity
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jp-araujo-bonfim) 
   
