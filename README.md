@@ -4,8 +4,8 @@
 
 <p>I'm a Software Engineering student with a genuine passion for technology and innovation. Beyond the tech world, I'm fascinated by human nature and behavior, I'm an avid reader, love animals, and regularly practice sports. I believe this diversity of interests makes me a more creative and empathetic developer.</p><br>
   
-- 🔭 I am Currently working on: [Terminal Dogma](https://github.com/jpdatahive/random_statuses/blob/main/README.md) - a project exploring AI and some Human Nature concepts (with a little bit of 新世紀エヴァンゲリオン in it)
-- 🌱 I am Currently studying: GenAI, AI Ethics, and Python to build robust and scalable applications
+- 🔭 I am Currently working on: [Terminal Dogma](https://github.com/jpdatahive/random_statuses/blob/main/README.md) - a project exploring AI and some Human Nature concepts (with a little bit of 新世紀エヴァンゲリオン in it) & [hormē](https://github.com/jpdatahive/horme) - _I guess we can't really achieve pneuma if we don't attach ourselves to something_.
+- 🌱 I am Currently studying: GenAI, AI Ethics, Golang and Python to build robust and scalable applications
 - 💬 Ask me about: anime, manga, technology, sports (some of them), software development, or any geeky topic that sparks your curiosity (;
 
 ## 🌐 Socials:
