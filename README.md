@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Joao Pedro</h1>
-<h3 align="center">Brazilian renaissance-esque tinkerer with a passion for tech & human nature lol</h3>
+<h2 align="center">Hi 👋, I'm Joao Pedro</h1>
+<h4 align="center">Brazilian renaissance-esque tinkerer with a passion for tech & human nature</h4>
+<p align="center"><sub>what a joke lol</sub></p>
 
 <br>
 
@@ -32,3 +33,4 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
