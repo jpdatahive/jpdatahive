@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/INoVmOWDA1QAAAAC/rainbow-bepop.gif" width="100" alt="Rainbow Bebop"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm JP</h1>
 <p align="center"><i>Brazilian renaissance-esque tinkerer with a passion for tech & human nature</i></p>
 <p align="center"><sub><i>lol</i></sub></p>
