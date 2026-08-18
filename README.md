@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
 <p align="center"><i>Brazilian renaissance-esque tinkerer with a passion for tech & human nature</i></p>
-<p align="center"><sub><i>lol</i></sub></p>
-
 <p align="center">
   Software Engineering student using tech to better navigate life, explore human nature, and build thoughtful, creative things.
 </p>
-
----
 
 ### What I'm up to
 
@@ -14,7 +10,7 @@
 | :--- | :--- |
 | A project exploring AI and some Human Nature concepts (with a little bit of 新世紀エヴァンゲリオン in it). | _I guess we can't really achieve pneuma if we don't attach ourselves to something._ |
 
----
+**Check my plugin for Omarchy Quattro →** [`sisyphus.papyrus`](https://omarchyplugins.com/plugin.html?id=sisyphus.papyrus)
 
 ### Some more
 
@@ -22,8 +18,6 @@
 * 📖 **Reading:** The woman in the dunes - Kobo Abe
 * 💬 **Let's talk about:** animanga • politics • technology • sports
 * 🐈‍⬛ **Raising:** Oreo & Freya
-
----
 
 ### Stack
 
