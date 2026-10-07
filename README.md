@@ -6,7 +6,7 @@
 
 ### What I'm up to
 
-| **[Terminal Dogma](https://github.com/jpdatahive/random_statuses/blob/main/README.md)** | **[hormē](https://github.com/jpdatahive/horme)** |
+| **[Terminal Dogma](https://github.com/jpdatahive/terminal-dogma)** | **[Mnemosyne](https://github.com/jpdatahive/mnemosyne)** |
 | :--- | :--- |
 | A project exploring AI and some Human Nature concepts (with a little bit of 新世紀エヴァンゲリオン in it). | _I guess we can't really achieve pneuma if we don't attach ourselves to something._ |
 
