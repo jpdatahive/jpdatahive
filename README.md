@@ -10,7 +10,6 @@
 | :--- | :--- |
 | A project exploring AI and some Human Nature concepts (with a little bit of 新世紀エヴァンゲリオン in it). | _I guess we can't really achieve pneuma if we don't attach ourselves to something._ |
 
-**Check my plugin for Omarchy Quattro →** [`sisyphus.papyrus`](https://omarchyplugins.com/plugin.html?id=sisyphus.papyrus)
 
 ### Some more
 
